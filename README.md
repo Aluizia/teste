@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <title>Plano de Leitura</title>
+  <!--aqui é o nome em cima do visualização-->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h2></h2>
+  
+  <!-- Como home page irei colocar o Apocalipse-->
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Plano de Leitura Bíblico</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Antigo testamento 
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="../Antigo testamento /pentateuco.html">Pentateuco</a></li>
+              <li><a class="dropdown-item" href="Antigo testamento /history.html">Históricos</a></li>
+              <li><a class="dropdown-item" href="../Antigo testamento /poetic.html">Poéticos</a></li>
+                <li><a class="dropdown-item" href="../Antigo testamento /profetasm.html">Profetas Maiores</a></li>
+                <li><a class="dropdown-item" href="../Antigo testamento /profetasmn.html">Profetas menores</a></li>
+            </ul>
+          </li>
+         <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Novo testamento 
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="../Novo testamento /evangelhos.html">Evangelhos</a></li>
+              <li><a class="dropdown-item" href="Novo testamento /cartas.html">Cartas</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+    <!-- Atos  -->
+  <div class="livm">
+    
+    <h2>Atos dos Apóstolos</h2>
+    <button class="botao" data-cor="green">01</button>
+    <button class="botao" data-cor="green">02</button>
+    <button class="botao" data-cor="green">03</button>
+    <button class="botao" data-cor="green">04</button>
+    <button class="botao" data-cor="green">05</button>
+    <button class="botao" data-cor="green">06</button>
+    <button class="botao" data-cor="green">07</button>
+    <button class="botao" data-cor="green">08</button>
+    <button class="botao" data-cor="green">09</button>
+    <button class="botao" data-cor="green">10</button><br />
+    <button class="botao" data-cor="green">11</button>
+    <button class="botao" data-cor="green">12</button>
+    <button class="botao" data-cor="green">13</button>
+    <button class="botao" data-cor="green">14</button>
+    <button class="botao" data-cor="green">15</button>
+    <button class="botao" data-cor="green">16</button>
+    <button class="botao" data-cor="green">17</button>
+    <button class="botao" data-cor="green">18</button>
+    <button class="botao" data-cor="green">19</button>
+    <button class="botao" data-cor="green">20</button><br />
+    <button class="botao" data-cor="green">21</button>
+    <button class="botao" data-cor="green">22</button>
+    <button class="botao" data-cor="green">23</button>
+    <button class="botao" data-cor="green">24</button>
+    <button class="botao" data-cor="green">25</button>
+    <button class="botao" data-cor="green">26</button>
+    <button class="botao" data-cor="green">27</button>
+    <button class="botao" data-cor="green">28</button>
+     </div>
+   <script src="../main.js"></script>
+  <div class="img">
+    <img src="../imgs/atos.png" alt="../imgs/atos.png">
+  </div>
+  <!-- Apocalipse  -->
+  <div class="livm">
+    
+    <h2>Apocalipse</h2>
+    <button class="botao" data-cor="green">01</button>
+    <button class="botao" data-cor="green">02</button>
+    <button class="botao" data-cor="green">03</button>
+    <button class="botao" data-cor="green">04</button>
+    <button class="botao" data-cor="green">05</button>
+    <button class="botao" data-cor="green">06</button>
+    <button class="botao" data-cor="green">07</button>
+    <button class="botao" data-cor="green">08</button>
+    <button class="botao" data-cor="green">09</button>
+    <button class="botao" data-cor="green">10</button><br />
+    <button class="botao" data-cor="green">11</button>
+    <button class="botao" data-cor="green">12</button>
+    <button class="botao" data-cor="green">13</button>
+    <button class="botao" data-cor="green">14</button>
+    <button class="botao" data-cor="green">15</button>
+    <button class="botao" data-cor="green">16</button>
+    <button class="botao" data-cor="green">17</button>
+    <button class="botao" data-cor="green">18</button>
+    <button class="botao" data-cor="green">19</button>
+    <button class="botao" data-cor="green">20</button><br />
+    <button class="botao" data-cor="green">21</button>
+    <button class="botao" data-cor="green">22</button>
+
+     </div>
+  <div class="mn">
+    <h5>©2026 Antigo testamento 36 livros <br />
+    Novo testamento 27 livros</h5>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  <script src="main.js"></script>
+</body>
+
+</html><!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <title>Plano de Leitura</title>
+  <!--aqui é o nome em cima do visualização-->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h2></h2>
+  
+  <!-- Como home page irei colocar o Apocalipse-->
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Plano de Leitura Bíblico</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Antigo testamento 
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="../Antigo testamento /pentateuco.html">Pentateuco</a></li>
+              <li><a class="dropdown-item" href="Antigo testamento /history.html">Históricos</a></li>
+              <li><a class="dropdown-item" href="../Antigo testamento /poetic.html">Poéticos</a></li>
+                <li><a class="dropdown-item" href="../Antigo testamento /profetasm.html">Profetas Maiores</a></li>
+                <li><a class="dropdown-item" href="../Antigo testamento /profetasmn.html">Profetas menores</a></li>
+            </ul>
+          </li>
+         <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Novo testamento 
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="../Novo testamento /evangelhos.html">Evangelhos</a></li>
+              <li><a class="dropdown-item" href="Novo testamento /cartas.html">Cartas</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+    <!-- Atos  -->
+  <div class="livm">
+    
+    <h2>Atos dos Apóstolos</h2>
+    <button class="botao" data-cor="green">01</button>
+    <button class="botao" data-cor="green">02</button>
+    <button class="botao" data-cor="green">03</button>
+    <button class="botao" data-cor="green">04</button>
+    <button class="botao" data-cor="green">05</button>
+    <button class="botao" data-cor="green">06</button>
+    <button class="botao" data-cor="green">07</button>
+    <button class="botao" data-cor="green">08</button>
+    <button class="botao" data-cor="green">09</button>
+    <button class="botao" data-cor="green">10</button><br />
+    <button class="botao" data-cor="green">11</button>
+    <button class="botao" data-cor="green">12</button>
+    <button class="botao" data-cor="green">13</button>
+    <button class="botao" data-cor="green">14</button>
+    <button class="botao" data-cor="green">15</button>
+    <button class="botao" data-cor="green">16</button>
+    <button class="botao" data-cor="green">17</button>
+    <button class="botao" data-cor="green">18</button>
+    <button class="botao" data-cor="green">19</button>
+    <button class="botao" data-cor="green">20</button><br />
+    <button class="botao" data-cor="green">21</button>
+    <button class="botao" data-cor="green">22</button>
+    <button class="botao" data-cor="green">23</button>
+    <button class="botao" data-cor="green">24</button>
+    <button class="botao" data-cor="green">25</button>
+    <button class="botao" data-cor="green">26</button>
+    <button class="botao" data-cor="green">27</button>
+    <button class="botao" data-cor="green">28</button>
+     </div>
+   <script src="../main.js"></script>
+  <div class="img">
+    <img src="../imgs/atos.png" alt="../imgs/atos.png">
+  </div>
+  <!-- Apocalipse  -->
+  <div class="livm">
+    
+    <h2>Apocalipse</h2>
+    <button class="botao" data-cor="green">01</button>
+    <button class="botao" data-cor="green">02</button>
+    <button class="botao" data-cor="green">03</button>
+    <button class="botao" data-cor="green">04</button>
+    <button class="botao" data-cor="green">05</button>
+    <button class="botao" data-cor="green">06</button>
+    <button class="botao" data-cor="green">07</button>
+    <button class="botao" data-cor="green">08</button>
+    <button class="botao" data-cor="green">09</button>
+    <button class="botao" data-cor="green">10</button><br />
+    <button class="botao" data-cor="green">11</button>
+    <button class="botao" data-cor="green">12</button>
+    <button class="botao" data-cor="green">13</button>
+    <button class="botao" data-cor="green">14</button>
+    <button class="botao" data-cor="green">15</button>
+    <button class="botao" data-cor="green">16</button>
+    <button class="botao" data-cor="green">17</button>
+    <button class="botao" data-cor="green">18</button>
+    <button class="botao" data-cor="green">19</button>
+    <button class="botao" data-cor="green">20</button><br />
+    <button class="botao" data-cor="green">21</button>
+    <button class="botao" data-cor="green">22</button>
+
+     </div>
+  <div class="mn">
+    <h5>©2026 Antigo testamento 36 livros <br />
+    Novo testamento 27 livros</h5>
+  </div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+  <script src="main.js"></script>
+</body>
+
+</html>
